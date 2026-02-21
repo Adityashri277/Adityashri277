@@ -1,23 +1,60 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=200&section=header&text=Aditya%20Srivastava&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Header Wave" />
+</div>
 
-<!--
-**Adityashri277/Adityashri277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=005C84&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Development+Specialist;DSA+%26+Competitive+Programming;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-339933?style=for-the-badge&logo=javascript&logoColor=white" alt="Focus" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Learning-DSA-e74c3c?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-</p>
+## 👨‍💻 Professional Summary
+I'm an Undergraduate B.Tech Student & developer specializing in backend development. Passionate about DSA and competitive programming, with a deep interest in the intersection of LLMs and Deep Learning.
+* **Software Developer** specializing in **Backend Development**, with a focus on building scalable and efficient server-side architectures.
+* Actively mastering **Data Structures & Algorithms (DSA)** and participating in **competitive programming contests** to refine problem-solving skills.
+* Deeply interested in the applications of **Large Language Models (LLMs)**, **Machine Learning**, and **Deep Learning**.
+
+---
+
+
+## 🛠️ Technical Arsenal
+
+### 💻 Core Programming Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py" alt="Core Languages" />
+</div>
+
+### 🌐 Backend & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,mysql" alt="Backend Stack" />
+</div>
+
+
+### 🛠️ Tools & Version Control
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+</div>
+
+### 🚀 Deployment & Cloud Hosting
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Aiven-FF313E?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven" />
+</div>
+
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -27,6 +64,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityashri277&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityashri277&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=100&section=footer" alt="Footer Wave" />
 </div>
