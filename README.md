@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=200&section=header&text=Hi,%20I'm&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Header Wave" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=200&section=header&text=Hi,%20I'm%20Aditya&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&fontFamily=Righteous" alt="Header Wave" /></div>
 
 
 <div align="center">
