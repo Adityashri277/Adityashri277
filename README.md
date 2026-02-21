@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityashri277&show_icons=true&theme=radium" alt="Aditya's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityashri277&theme=radium" alt="Aditya's GitHub Streak" />
-</p>
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityashri277&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityashri277&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
